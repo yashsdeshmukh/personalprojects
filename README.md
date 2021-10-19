@@ -1,2 +1,2 @@
 # personalprojects
-in search of indepth computer knowledge
+in search of computer knowledge
