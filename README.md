@@ -1,2 +1,2 @@
 # personalprojects
-in search of computer knowledge
+The projects that never completed
